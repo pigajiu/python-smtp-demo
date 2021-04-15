@@ -1,4 +1,4 @@
-#
+import os
 import sys
 import smtplib
 from emailexe import Ui_MainWindow
